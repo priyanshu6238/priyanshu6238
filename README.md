@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Singh</h1>
-<h3 align="center">Passionate about building backend tools that solve real problems | Contributor to impactful open-source projects | Pythonic by heart 🐍</h3>
+<h3 align="center">Passionate about building backend tools that solve real problems | Contributor to impactful open-source projects </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu6238&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu6238" /> </p>
 
