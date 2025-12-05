@@ -73,10 +73,12 @@
 
 ## 📊 **GitHub Stats**
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu6238&layout=compact&theme=default" />
-</p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu6238&show_icons=true&theme=default" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu6238&theme=dark" alt="Priyanshu's GitHub Streak" />
+</p>
+
+
+<p>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu6238&theme=react" alt="Priyanshu's GitHub Activity Graph" />
 </p>
