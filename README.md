@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Building+Cool+Stuff" alt="Typing SVG" />
+</p>
+
+
 ## 📊 **GitHub Stats** 📈
 
 <p align="center">
@@ -25,7 +30,4 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,py,git" alt="My Skills" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Building+Cool+Stuff" alt="Typing SVG" />
 </p>
