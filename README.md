@@ -13,11 +13,12 @@
 </p>
 
 ### 📈 Overall Stats
+<p align="center"
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu6238&layout=compact&theme=react" alt="Top Langs" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu6238&show_icons=true&theme=react" alt="Priyanshu's GitHub Stats" />
+  <table align="center">
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=priyanshu6238&show_icons=true&theme=react" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu6238&layout=compact&theme=react" /></td>
+    </tr>
+  </table>
 </p>
